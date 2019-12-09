@@ -8,16 +8,13 @@ Game ini merupakan (endless games) yang bertemakan education untuk anak-anak yan
 
 ## Screenshot Game
 Starting Prompt: <br />
-![Starting Prompt](SS1.jpg) <br/>
+![Starting Prompt](Screenshot-2.jpeg) <br/>
 
 Gameplay: <br />
 ![Gameplay](Screenshot-1.jpeg) <br/>
 
 Game Over: <br />
-![Game Over](Screenshot-2.jpeg) <br/>
-
-<br />
-Screenshot-3.jpeg <br/>
+![Game Over](Screenshot-3.jpeg) <br/>
 
 Main Menu: <br />
 ![Main Menu](Screenshot-4.jpeg) <br/>
