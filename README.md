@@ -6,6 +6,21 @@ Game ini merupakan (endless games) yang bertemakan education untuk anak-anak yan
 | ----- | ----- | ----- |
 | Qarry Atul Chairunnisa  (G64170014) | Indah Puspita           (G64170035) | Siti Nur Hasanah        (G64170036) |
 
+## Screenshot Game
+Starting Prompt: <br />
+![Starting Prompt](SS1.jpg) <br/>
+
+Gameplay: <br />
+![Gameplay](Screenshot-1.jpeg) <br/>
+
+Game Over: <br />
+![Game Over](Screenshot-2.jpeg) <br/>
+
+<br />
+Screenshot-3.jpeg <br/>
+
+Main Menu: <br />
+![Main Menu](Screenshot-4.jpeg) <br/>
 
 ## Story Line
 AlphaBalloon merupakan game endless education yang memiliki storyline dimana pemain menebak huruf dan angka yang disebutkan oleh narator dengan mengklik balon yang ditandai pilihan huruf dan angka. Pemain harus mampu menebak huruf dan angka agar bisa melanjutkan pertanyaan tebakan selanjutnya.
