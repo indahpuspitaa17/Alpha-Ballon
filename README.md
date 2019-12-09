@@ -10,11 +10,11 @@ Game ini merupakan (endless games) yang bertemakan education untuk anak-anak yan
 Starting Prompt: <br />
 ![Starting Prompt](Screenshot-2.jpeg) <br/>
 
-Gameplay: <br />
-![Gameplay](Screenshot-1.jpeg) <br/>
-
 Menu Utama : <br />
 ![Game Over](Screenshot-3.jpeg) <br/>
+
+Gameplay: <br />
+![Gameplay](Screenshot-1.jpeg) <br/>
 
 Info Menu: <br />
 ![Main Menu](Screenshot-4.jpeg) <br/>
@@ -40,3 +40,4 @@ Game ini bertemakan taman kanak-kanak, yang mana ketika akan menebak huruf suasa
 - Game ini juga didukung oleh suara narator yang memberikan pertanyaan
 - Human character juga memiliki suara tertawa atau menangis.
 
+## Teknologi yang Digunakan
