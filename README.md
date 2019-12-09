@@ -27,3 +27,4 @@ Game ini bertemakan taman kanak-kanak, yang mana ketika akan menebak huruf suasa
 - Game dapat di pause dengan tombol space.
 - Game ini juga didukung oleh suara narator yang memberikan pertanyaan
 - Human character juga memiliki suara tertawa atau menangis.
+
