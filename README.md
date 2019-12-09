@@ -10,7 +10,7 @@ Game ini merupakan games yang bertemakan education untuk anak-anak yang baru bel
 AlphaBalloon merupakan game education yang memiliki storyline dimana pemain menebak huruf yang disebutkan oleh narator dengan mengklik balon yang ditandai pilihan huruf. Pemain harus mampu menebak huruf agar bisa melanjutkan pertanyaan tebakan selanjutnya.
 
 ## Gameplay
-Game ini bertujuan untuk memenangkan tebakan huruf alphabet dari A-Z. Setiap pemain yang mampu menebak dengan benar, akan memperoleh satu poin untuk  lanjut ke tebakan berikutnya. Setiap sesi memerlukan waktu 5 detik.  Tebakan yang benar ditandai oleh sebuah karakter yang memiliki ekspresi tertentu.
+Game ini bertujuan untuk memenangkan tebakan huruf alphabet dari A-Z. Setiap pemain yang mampu menebak dengan benar, akan memperoleh satu poin untuk  lanjut ke tebakan berikutnya. Tebakan yang benar ditandai oleh sebuah karakter yang memiliki ekspresi tertentu.
 
 ## Character
 AlphaBallon menggunakan beberapa karakter diantaranya :
@@ -18,14 +18,12 @@ Balloon : karakter utama, tiap balon menampilkan huruf yang berbeda-beda.
 Human : Karakter tambahan, yang mana ketika pemain berhasil menebak dengan benar atau salah  maka karakter ini akan menampilkan ekspresi tertentu.
 
 ## Concept dan Environment
-Game ini bertemakan taman kanak-kanak, yang mana ketika akan menebak huruf suasana siang hari yang muncul. Ketika masuk ke game ini pemain akan diarahkan untuk memilih permainan untuk menebak huruf. Game ini juga akan diiringi dengan musik tertentu, untuk menambah suasana pada game.
+Game ini akan diiringi dengan musik tertentu, untuk menambah suasana pada game.
 
 ## Action
 - Balon menggantung di udara dengan pergerakan statis
-- Pemain dapat mengklik  balon untuk memilih huruf atau angka yang benar menurutnya. Dari klik tersebut, akan menampilkan human character yang memiliki ekspresi tertentu; tertawa atau menangis.
-- Game dapat di pause dengan tombol space.
-- Game ini juga didukung oleh suara narator yang memberikan pertanyaan
-- Human character juga memiliki suara tertawa atau menangis.
+- Pemain dapat mengklik  balon untuk memilih huruf yang benar menurutnya. Dari klik tersebut, akan menampilkan human character yang memiliki ekspresi tertentu.
+- Game ini juga didukung oleh suara narator yang memberikan pertanyaan.
 
 ## Teknologi yang Digunakan
 
