@@ -41,3 +41,9 @@ Game ini bertemakan taman kanak-kanak, yang mana ketika akan menebak huruf suasa
 - Human character juga memiliki suara tertawa atau menangis.
 
 ## Teknologi yang Digunakan
+
+| Game Designer | 
+| ----- |
+|Unity 5.6.0f3 (64-bit) | 
+| ----- |
+|Visual Studio Code | 
