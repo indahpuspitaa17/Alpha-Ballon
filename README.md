@@ -13,10 +13,10 @@ Starting Prompt: <br />
 Gameplay: <br />
 ![Gameplay](Screenshot-1.jpeg) <br/>
 
-Game Over: <br />
+Menu Utama : <br />
 ![Game Over](Screenshot-3.jpeg) <br/>
 
-Main Menu: <br />
+Info Menu: <br />
 ![Main Menu](Screenshot-4.jpeg) <br/>
 
 ## Story Line
